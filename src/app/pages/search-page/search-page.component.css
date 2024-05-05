@@ -1,0 +1,19 @@
+.title-font {
+    font-family: 'Helios', sans-serif;
+    letter-spacing: 3px;
+}
+
+.bg-image {
+    background-image: url('../../../assets/images/train-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+svg.logo path {
+    fill: #81C784;
+}
+
+.microphone-active {
+    font-weight: 700;
+}
